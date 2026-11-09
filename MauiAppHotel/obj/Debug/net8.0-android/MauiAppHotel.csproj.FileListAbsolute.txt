@@ -1,0 +1,6 @@
+C:\Users\Cbxp\Documents\00 - ETEC - Des. Sistemas\MODULO II\DESENV. SISTEMAS\13 - AGENDA\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-android\MauiAppHotel.csproj.AssemblyReference.cache
+C:\Users\Cbxp\Documents\00 - ETEC - Des. Sistemas\MODULO II\DESENV. SISTEMAS\13 - AGENDA\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-android\MauiAppHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cbxp\Documents\00 - ETEC - Des. Sistemas\MODULO II\DESENV. SISTEMAS\13 - AGENDA\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-android\MauiAppHotel.AssemblyInfoInputs.cache
+C:\Users\Cbxp\Documents\00 - ETEC - Des. Sistemas\MODULO II\DESENV. SISTEMAS\13 - AGENDA\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-android\MauiAppHotel.AssemblyInfo.cs
+C:\Users\Cbxp\Documents\00 - ETEC - Des. Sistemas\MODULO II\DESENV. SISTEMAS\13 - AGENDA\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-android\MauiAppHotel.csproj.CoreCompileInputs.cache
+C:\Users\Cbxp\Documents\00 - ETEC - Des. Sistemas\MODULO II\DESENV. SISTEMAS\13 - AGENDA\MauiAppHotel\MauiAppHotel\obj\Debug\net8.0-android\MauiAppHotel.sourcelink.json
